@@ -52,4 +52,4 @@ jobs:
           app-name: 'frontenddigitalwayfinder'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ADFAD4BC40254FCC919E3CBF5D7F4F33 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_231D27E495DE45FBAA6DD4BDBAE73BC4 }}
